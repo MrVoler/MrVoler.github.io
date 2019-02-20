@@ -1,0 +1,378 @@
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.15.18.1165
+  时间:             2019-02-21 00:46:50
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            X64 兼容 台式电脑
+  操作系统            Windows 10 专业版 64位 ( DirectX 12 )
+
+  处理器              英特尔 Core i7-8700K @ 3.70GHz 六核
+  主板                华硕 ROG MAXIMUS X HERO (WI-FI AC) ( 300 Series 芯片组 Family - A2C9 )
+  显卡                Nvidia GeForce RTX 2080 Ti ( 11 GB / 华硕 )
+  内存                16 GB ( 金士顿 DDR4 2400MHz )
+  主硬盘              东芝 Q300. ( 240 GB / 固态硬盘 )
+  显示器              三星 SAM0E14 C32HG7x ( C32HG7x )
+  声卡                英特尔 High Definition Audio 控制器
+  网卡                英特尔 Ethernet Connection  I219-V / 华硕
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            华硕 ROG MAXIMUS X HERO (WI-FI AC)
+  芯片组              300 Series 芯片组 Family - A2C9
+  序列号              171115171100654
+  主板版本            Rev 1.xx
+  BIOS版本            American Megatrends Inc. 1801  /  BIOS程序发布日期: 11/05/2018
+  BIOS的大小          16384 KB
+  BIOS的序列号        63-0100-000001-00101111-090216-Chipset
+
+  板载设备            视频设备 (启用)
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 Core i7-8700K @ 3.70GHz 六核
+  速度                3.70 GHz (100 MHz x 37.0)
+  处理器数量          核心数: 6 / 线程数: 12
+  插槽/插座           LGA1151
+  一级数据缓存        6 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        6 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            6 x 256 KB, 4-Way, 64 byte lines
+  三级缓存            12 MB, 16-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                三星  SSD 860 EVO 500GB (固态硬盘)
+  大小                500 GB
+  硬盘已使用          共 67 次，累计 654 小时
+  固件                RVT01B6Q
+  接口                SATA III
+  特征                S.M.A.R.T,  48-bit LBA,  NCQ
+
+  产品                西数 WDC WD10EZEX-60WN4A0
+  大小                1 TB
+  转速                7200 转/分
+  缓存                64 MB
+  硬盘已使用          共 472 次，累计 16857 小时
+  固件                01.01A01
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+  产品                东芝  Q300. (固态硬盘)
+  大小                240 GB
+  硬盘已使用          共 475 次，累计 16867 小时
+  固件                SAFM12.3
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+  产品                西数 WDC WD10JMVW-11AJGS3
+  大小                1 TB
+  转速                5400 转/分
+  缓存                8 MB
+  硬盘已使用          共 276 次，累计 3189 小时
+  固件                01.01A01
+  接口                SATA II
+  数据传输率          400.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  ChannelA-DIMM1      金士顿 DDR4 2400MHz 8GB
+  制造日期            2016 年 06月
+  型号                7F98 KHX2400C15/8G
+  序列号              F01C858D
+  厂商                Kingston
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+  ChannelB-DIMM1      金士顿 DDR4 2400MHz 8GB
+  制造日期            2016 年 06月
+  型号                7F98 KHX2400C15/8G
+  序列号              E81C864D
+  厂商                Kingston
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  主显卡              Nvidia GeForce RTX 2080 Ti
+  显存                11 GB
+  制造商              华硕
+  制造商              Nvidia
+  BIOS日期            09/06/18 (非显卡制造日期)
+  驱动版本            25.21.14.1891
+  驱动日期            20190206
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                三星 SAM0E14 C32HG7x ( 31.5 英寸 )
+  厂商                三星
+  固件程序日期        2018 年 07月 (非显示器制造日期)
+  屏幕尺寸            31.5 英寸 (70 厘米 x 39 厘米)
+  类型                30 - 225 KHz / 50 - 144 Hz
+  分辨率              2560 x 1440 32 位真彩色 ( 刷新率: 144 Hz )
+  Gamma               2.20
+  电源管理            Active-Off
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  网卡                英特尔 Ethernet Connection  I219-V
+  制造商              华硕
+
+  无线网卡            瑞昱 Realtek RTL8822BE 802.11ac PCIe Adapter
+  制造商              华硕
+
+  声卡                英特尔 High Definition Audio 控制器
+
+  声卡                Nvidia High Definition Audio 控制器
+
+  键盘                HID 标准键盘
+  键盘                HID 标准键盘
+  键盘                HID 标准键盘
+  鼠标                HID-compliant 鼠标
+
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                PCI 标准主机 CPU 桥
+  设备ID              3EC2
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        ASUSTeK
+  子系统ID            872F1043
+
+  设备                Xeon E3 - 1200/1500 v5/6th Gen Intel Core PCIe Controller  - 1901
+  设备ID              1901
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                USB 3.0 可扩展主机控制器 - 1.0 (Microsoft)
+  设备ID              A2AF
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        ASUSTeK
+  子系统ID            872F1043
+
+  设备                Management Engine Interface
+  设备ID              A2BA
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        ASUSTeK
+  子系统ID            872F1043
+
+  设备                标准 SATA AHCI 控制器
+  设备ID              A282
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        ASUSTeK
+  子系统ID            872F1043
+
+  设备                200 Series Chipset Family PCI Express Root Port #17 - A2E7
+  设备ID              A2E7
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                200 Series Chipset Family PCI Express Root Port #1 - A290
+  设备ID              A290
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                200 Series Chipset Family PCI Express Root Port #3 - A292
+  设备ID              A292
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                200 Series Chipset Family PCI Express Root Port #5 - A294
+  设备ID              A294
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                200 Series Chipset Family PCI Express Root Port #7 - A296
+  设备ID              A296
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                200 Series Chipset Family PCI Express Root Port #9 - A298
+  设备ID              A298
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                300 Series Chipset Family LPC Controller  - A2C9
+  设备ID              A2C9
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        ASUSTeK
+  子系统ID            872F1043
+
+  设备                200 Series Chipset Family PMC - A2A1
+  设备ID              A2A1
+  制造商              Intel
+  制造商ID            8086
+  类别                Memory / Other
+  子系统制造商        ASUSTeK
+  子系统ID            872F1043
+
+  设备                High Definition Audio 控制器
+  设备ID              A2F0
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        ASUSTeK
+  子系统ID            87351043
+
+  设备                200 Series Chipset Family SMBUS - A2A3
+  设备ID              A2A3
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        ASUSTeK
+  子系统ID            872F1043
+
+  设备                Ethernet Connection  I219-V
+  设备ID              15B8
+  制造商              Intel
+  制造商ID            8086
+  类别                Network / Ethernet
+  子系统制造商        ASUSTeK
+  子系统ID            86721043
+
+  设备                GeForce RTX 2080 Ti
+  设备ID              1E07
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Display / VGA
+  子系统制造商        ASUSTeK
+  子系统ID            86671043
+
+  设备                High Definition Audio 控制器
+  设备ID              10F7
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        ASUSTeK
+  子系统ID            86671043
+
+  设备                USB 3.10 可扩展主机控制器 - 1.10 (Microsoft)
+  设备ID              1AD6
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Serial / USB (UHCI)
+  子系统制造商        ASUSTeK
+  子系统ID            86671043
+
+  设备                USB Type-C Port Policy Controller
+  设备ID              1AD7
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Serial / Other
+  子系统制造商        ASUSTeK
+  子系统ID            86671043
+
+  设备                Realtek RTL8822BE 802.11ac PCIe Adapter
+  设备ID              B822
+  制造商              Realtek
+  制造商ID            10EC
+  类别                Network / Other
+  子系统制造商        ASUSTeK
+  子系统ID            87461043
+
+  设备                ASMedia USB 3.1 可扩展主机控制器 - 1.10 (Microsoft)
+  设备ID              2142
+  制造商              ASMedia
+  制造商ID            1B21
+  类别                Serial / USB (UHCI)
+  子系统制造商        ASUSTeK
+  子系统ID            87561043
+
+  设备                ASMedia USB 3.1 可扩展主机控制器 - 1.10 (Microsoft)
+  设备ID              2142
+  制造商              ASMedia
+  制造商ID            1B21
+  类别                Serial / USB (UHCI)
+  子系统制造商        ASUSTeK
+  子系统ID            87561043
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            1038
+  产品ID              1250
+  类别                0 / 0 / 0
+  设备                SteelSeries SteelSeries Arctis 5
+  Serial              00000000
+  版本                USB 2.0
+
+  制造商ID            05AC
+  产品ID              12A8
+  类别                0 / 0 / 0
+  设备                Apple Inc. iPhone
+  Serial              44effbad88e82fc62ac7a50fbbef2bb09a751497
+  版本                USB 2.0
+
+  制造商ID            1038
+  产品ID              1369
+  类别                0 / 0 / 0
+  设备                SteelSeries Sensei Raw Gaming Mouse
+  Serial              ?
+  版本                USB 1.1
+
+  制造商ID            0B05
+  产品ID              185C
+  类别                224 / 1 / 1
+  设备                 
+  版本                USB 1.1
+
+  制造商ID            0B05
+  产品ID              1872
+  类别                0 / 0 / 0
+  设备                 
+  版本                USB 2.0
+
+  制造商ID            1058
+  产品ID              1078
+  类别                0 / 0 / 0
+  设备                Western Digital Elements 1078
+  Serial              575832314535344C45363033
+  版本                USB 3.0
+
+  描述                Cherry GmbH G83 (RS 6000) Keyboard
+  制造商ID            046A
+  产品ID              0011
+  类别                0 / 0 / 0
+  设备                 
+  版本                USB 2.0
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  名称                WINBOND NCT5567D-B
+  CPU温度             36℃
+  CPU核心             37℃
+  CPU封装             37℃
+  主板                29℃
+  显卡                54℃
+  硬盘温度            34℃
+  风扇                856转
+
